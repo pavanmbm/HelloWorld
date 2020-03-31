@@ -1,1 +1,1 @@
-web: java -jar target/demo-0.0.1-SNAPSHOT.jar com.example.demo.DemoApplication
+web: java -jar target/dependency/webapp-runner.jar target/*.war
